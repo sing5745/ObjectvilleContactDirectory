@@ -1,0 +1,16 @@
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ObjecvilleContactDirectory.exe.config
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ObjecvilleContactDirectory.exe
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ObjecvilleContactDirectory.pdb
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.csprojAssemblyReference.cache
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.ObjectvilleDirectoryForm.resources
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.Properties.Resources.resources
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.csproj.GenerateResource.cache
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.csproj.CoreCompileInputs.cache
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.exe
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.pdb
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ContactDB.mdf
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ContactDB_log.ldf
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ObjecvilleContactDirectory.exe.manifest
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\bin\Debug\ObjecvilleContactDirectory.application
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.exe.manifest
+I:\SHERIDAN_COLLEGE\Semester 4\C# - Web services\week4\assignment1\final\ObjecvilleContactDirectory\ObjecvilleContactDirectory\obj\Debug\ObjecvilleContactDirectory.application
